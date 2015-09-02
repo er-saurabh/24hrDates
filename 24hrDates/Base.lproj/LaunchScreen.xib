@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Splash_Screen.png" translatesAutoresizingMaskIntoConstraints="NO" id="H28-LG-pbW">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="H28-LG-pbW" secondAttribute="bottom" id="0c5-00-us0"/>
+                <constraint firstItem="H28-LG-pbW" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="83a-1z-VB9"/>
+                <constraint firstItem="H28-LG-pbW" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Q2j-9d-uBb"/>
+                <constraint firstAttribute="trailing" secondItem="H28-LG-pbW" secondAttribute="trailing" id="YKp-Xj-bGl"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="347" y="382"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Splash_Screen.png" width="640" height="960"/>
+    </resources>
+</document>
