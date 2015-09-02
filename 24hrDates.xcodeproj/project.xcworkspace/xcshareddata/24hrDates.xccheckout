@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>AB86CC11-F8ED-4D92-A88A-3CFB65533C51</string>
+=======
+	<string>D0769290-708B-4723-9E7D-BE2BEA1918D6</string>
+>>>>>>> fc9a45cd1f1c82d0a84e3426a78f3e945e588781
 	<key>IDESourceControlProjectName</key>
 	<string>24hrDates</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +38,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>1665C4721A9C35CEA53C0DEE55971FD77301E170</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< HEAD
 			<string>24hrDates%202%203</string>
+=======
+			<string>24HR</string>
+>>>>>>> fc9a45cd1f1c82d0a84e3426a78f3e945e588781
 		</dict>
 	</array>
 </dict>
